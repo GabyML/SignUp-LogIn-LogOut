@@ -1,1 +1,1 @@
-This repository contains the work done during week 6 of the July Cohort (Lab Week!). It's Sarah, Christopher and Gaby's go to create a web application to share and discover music. 
+This repository contains the work done during August the 24th, 2015, by Christopher, Sarah and Gaby. This codes allows a user to Sing Up, Log In and Log Out. It was test driven developed using Cucumber and RSPEC. The back-end was done with Ruby. 
